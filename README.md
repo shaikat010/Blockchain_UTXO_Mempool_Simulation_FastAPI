@@ -7,4 +7,5 @@ The user submits a transaction using the fast api gateway. The transaction data 
 
 Below is the diagram for process. 
 
-![image](https://github.com/shaikat010/Blockchain_UTXO_Mempool_Simulation_FastAPI/assets/68814937/f8dec58c-4494-4416-816c-9b0314d1fa77)
+![image](https://github.com/shaikat010/Blockchain_UTXO_Mempool_Simulation_FastAPI/assets/68814937/6db939dd-d01b-47e7-a5b2-a80b03a01611)
+
